@@ -3,11 +3,25 @@
 My personal fork of *Handmade Hero*, an ongoing project by Casey Muratori to create a complete, professional-quality game from scratch in C.
 
 ---
+
 ## Prerequisites
 
 - **Operating System**: Windows
 - **IDE**: Visual Studio Community 2022
 ---
+
+---
+## How to run 
+
+#### Simple Build
+- run `build` from Command Prompt in `C:\handmade\code`
+
+#### Build & Run 
+1. run `build && devenv ..\..\build\win32_handmade.exe`
+2. Once Visual Studio is open click on `F11` and click on `Start`
+---
+
+
 
 ## Day 1 - Setting Up the Windows Build
 [Watch the Video](https://www.youtube.com/watch?v=Ee3EtYb8d1o)
