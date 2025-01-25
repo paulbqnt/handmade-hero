@@ -10,7 +10,7 @@ My personal fork of *Handmade Hero*, an ongoing project by Casey Muratori to cre
 - **IDE**: Visual Studio Community 2022
 ---
 
----
+
 ## How to run 
 
 #### Simple Build
@@ -95,3 +95,18 @@ popd
 Define the basic structure for creating a Win32 window (based on window.h).
 
 ---
+
+## Day 3 - Allocating a Backbuffer
+[Watch the Video](https://www.youtube.com/watch?v=GAi_nTx1zG8&list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&index=15)
+
+1. PostQuitMessage function
+2. Different meanings of the static modifier
+3. Window can be close now
+4. GetClientRect
+5. CreateDIBSection
+6. StretchDIBits
+7. Win32ResizeDIBSection
+8. DeviceContext
+
+---
+
